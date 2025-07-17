@@ -1,0 +1,13 @@
+# Ortam değişkenleri dosyaları
+.env
+
+# MCP yapılandırma dosyası (gerçek API anahtarlarını içerir)
+mcp.config.json
+
+# Python cache dosyaları
+__pycache__/
+*.pyc
+
+# IDE ayarları (örnek: VSCode)
+.vscode/
+.idea/
